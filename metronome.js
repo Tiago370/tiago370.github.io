@@ -23,8 +23,8 @@ if (window.performance.now) {
 //Load Sounds
 var SoundSources = function() {
   loadSounds(this, {
-    tick: 'media/tick.wav',
-    blip: 'media/blip.wav'
+    tick: 'tick.wav',
+    blip: 'blip.wav'
   });
 };
 
